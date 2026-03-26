@@ -6,6 +6,7 @@
 Murilo Henrique da Silva Comandulli: Gerente de projetos, Programador, Analista, Projetista, Engenheiro de Software
 
 Pedro Gabriel dos Santos Souza: Programador, Analista, Projetista
+
 Ricardo da Silva Lacerda: Programador, Analista, Projetista
 
 Data de criação: 05/03/2026
